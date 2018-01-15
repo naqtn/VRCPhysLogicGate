@@ -17,7 +17,4 @@ But with this, we can make any condition dependent world behaviours!
 
 ## Release
 
-- [2018-01-16] (release/placeholder.txt)
-    - First release
-
-
+[see https://naqtn.github.io/VRCPhysLogicGate/index.html](https://naqtn.github.io/VRCPhysLogicGate/index.html)
